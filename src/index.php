@@ -16,7 +16,7 @@
   $data = array(
     'green' => array(
       'label' => 'groen',
-      sublines => array(
+      'sublines' => array(
         'Nog niet tenminste',
         'Kwestie van tijd',
         'Effe wachten nog',
